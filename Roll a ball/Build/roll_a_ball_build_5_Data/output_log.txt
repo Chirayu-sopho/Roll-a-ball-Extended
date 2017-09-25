@@ -1,0 +1,574 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R5 M330 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2036 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.083 seconds
+Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_5_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'Don't Pick Up') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 1.609690 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2594 -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (4)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (7)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (3)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (6)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (10)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (8)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (5)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (9)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (2)') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.930704 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.430647 ms (FindLiveObjects: 0.044903 ms CreateObjectMapping: 0.026514 ms MarkObjects: 0.315181 ms  DeleteObjects: 0.042765 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'Pick Up') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (3)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (7)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (17)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (21)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (13)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (16)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (6)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (10)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (8)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (2)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (19)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (11)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (18)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (14)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (15)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (12)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (4)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (9)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (20)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (5)') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.679970 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 489.
+Total: 0.405416 ms (FindLiveObjects: 0.053029 ms CreateObjectMapping: 0.028225 ms MarkObjects: 0.256164 ms  DeleteObjects: 0.067569 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'Don't Pick Up') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (2)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (7)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (6)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (10)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (5)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (9)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (7)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (11)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (9)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (3)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (6)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (5)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (4)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (10)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (3)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (2)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (8)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (4)') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.767211 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 482.
+Total: 0.410548 ms (FindLiveObjects: 0.053456 ms CreateObjectMapping: 0.033357 ms MarkObjects: 0.298930 ms  DeleteObjects: 0.024376 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (4)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (7)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (3)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (6)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (10)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (8)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (5)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (9)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pick Up (2)') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.589307 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.368210 ms (FindLiveObjects: 0.045759 ms CreateObjectMapping: 0.026086 ms MarkObjects: 0.287383 ms  DeleteObjects: 0.008553 ms)
+
