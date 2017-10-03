@@ -2,27 +2,26 @@ Initialize engine version: 5.5.0f3 (38b4efef76f0)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: AMD Radeon R5 M330 (ID=0x6660)
+    Renderer: AMD Radeon R5 M315 (ID=0x6907)
     Vendor:   ATI
-    VRAM:     2036 MB
-    Driver:   20.19.15.4531
+    VRAM:     2039 MB
+    Driver:   15.200.1045.0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.115 seconds
-Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\HP\Desktop\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.846 seconds
+Platform assembly: C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\dr-food\Desktop\Unity related\Roll-a-ball-Extended-master\Roll a ball\Build\roll_a_ball_build_2_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
 The referenced script on this Behaviour is missing!
@@ -185,6 +184,6 @@ The referenced script on this Behaviour (Game Object 'Pick Up (4)') is missing!
  
 (Filename:  Line: 1754)
 
-UnloadTime: 3.850170 ms
+UnloadTime: 1.298346 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2230 -> priority: 1 
+  Thread -> id: 35ec -> priority: 1 
